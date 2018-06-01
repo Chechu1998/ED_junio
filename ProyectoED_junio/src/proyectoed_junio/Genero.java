@@ -1,5 +1,3 @@
-import java.util.Vector;
-
 enum Genero {
 
   accion,
@@ -10,7 +8,5 @@ enum Genero {
 
   comedia;
 
-    public Vector  0..*;
-    public Vector  0..*;
 
 }
