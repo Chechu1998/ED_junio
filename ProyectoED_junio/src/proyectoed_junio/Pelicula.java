@@ -1,10 +1,12 @@
-import java.util.Vector;
+
+import java.time.LocalDate;
+
 
 public class Pelicula {
 
   private String titulo;
 
-  private Date fechaInicio;
+  private LocalDate fechaInicio;
 
   private String idioma;
 
@@ -12,8 +14,6 @@ public class Pelicula {
 
   private String sinopsis;
 
-      public Vector  ve;
-    public Vector  0..*;
-    public Vector  1..*;
+    
 
 }
